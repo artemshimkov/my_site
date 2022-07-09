@@ -1,0 +1,48 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: darkgray;
+    color: white;
+    width: 100%;
+}
+
+.block {
+    background-color: indigo;
+    border: 2px dashed ;
+    height:60px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.header,
+.footer,
+.main {
+   width: 80%;
+   margin:0 auto; 
+}
+
+.block1 {
+    width: 20%;
+    float: left;
+}
+
+.block2 {
+    width:50%;
+    float: left;
+}
+
+.block3 {
+    width:20%;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    float: right;
+}
+
+.footer {
+    clear: both;
+}

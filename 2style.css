@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color:blue;
+
+}
+body{
+    font-family:Consolas ;
+    color:navy;
+    background-color: rgb(red, green, blue);
+    background-image: url(img/Новий\ проект.png);
+    background-attachment: fixed;
+}
+
+h1 {
+    color:orange;
+}
+
+#people {
+    color:white;
+    background-color:red;
+    font-size:16px;
+}
+
+.p1{
+    color:blueviolet;
+}
+
+.p2{
+    color:rgb(229, 255, 0);
+}
+
+.p3{
+    color:orangered;
+}
